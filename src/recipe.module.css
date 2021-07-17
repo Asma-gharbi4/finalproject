@@ -1,0 +1,25 @@
+.recipe{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+    background-image: url(https://i.pinimg.com/564x/5b/f8/25/5bf8253e434473948c2aa7196212a27a.jpg);
+  
+}
+.Title{
+    font-family: cursive;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+}
